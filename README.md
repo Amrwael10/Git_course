@@ -1,5 +1,4 @@
 # Git_course
 for Assignments
 
-
-##project Notes
+This is Note
